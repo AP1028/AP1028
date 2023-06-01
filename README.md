@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AP1028
 - 👀 I’m interested in tech, physics and science fiction.
-- 🌱 I’m currently preparing for entering university.
+- 🌱 I’m currently studying in SJTU.
 - 📫 How to reach me tian_yi_xia@qq.com
 
 <!---
